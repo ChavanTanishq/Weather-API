@@ -13,7 +13,8 @@ Tech Stack
 - API: OpenWeatherMap.
 
 Screenshots
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Add+your+app+screenshot+here)
+![image](https://github.com/user-attachments/assets/ea52b943-164a-454d-ac42-8913c3eb4c60)
+
 
 Installation
 1. Clone the repository:
